@@ -1,7 +1,7 @@
 # Election Analysis
 
 ## Overview of Election Audit
-This project was aimed at auditing the election results for Congressional race in Colorado. In the election there were a total of 3 candidates running for office, the voters represented 3 distinct counties. By utilizing Python we were able to complete an audit of the results received, and verify that Diana DeGette was the winner of the election. We also deled deeper into how each candidate faired and which counties had the greatest turn out for the election.
+This project was aimed at auditing the election results for Congressional race in Colorado. In the election there were a total of 3 candidates running for office, the voters represented 3 distinct counties. By utilizing Python we were able to complete an audit of the results received, and verify that Diana DeGette was the winner of the election. We also delved deeper into how each candidate faired and which counties had the greatest turn out for the election.
 
 ## Election Audit Results
 A summary of the key election metrics can be seen below:
@@ -25,4 +25,4 @@ Fig.2
 
 Overall, the election audit was successful and verified that Diana DeGette won. It is also clear to see that as candidates campaign, winning Denver County is an integral part of winning a congressional seat in Colorado.
 
-The script that we made and ran can be used for future elections as well. By changing the list of candidates, and/or the list of counties this script can be applied to elections all over the country. If the inputs are correctly changed the script should run seamlessly.
+The script that we made is versatile can be used for future elections as well. By changing the input data  this script can be applied to elections all over the country. The script could be changed to give insight into politcal affiliations and other metrics depending on what data is collected at the polling site too. If needed this script could even be used on a national level by adding in further code to asses state by state results. If the inputs are correctly changed for the source the script should run seamlessly.
